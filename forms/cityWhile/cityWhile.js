@@ -1,1 +1,4 @@
-// LET THIS SHOW UP ON GITHUB!!!
+// Create some variables
+
+let cities = []
+let 

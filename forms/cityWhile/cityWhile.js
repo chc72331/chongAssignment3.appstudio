@@ -1,5 +1,3 @@
-// Create some variables
-
 let cities = []
 let cityBoolean = false
 let userCity = ""

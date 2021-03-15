@@ -14,7 +14,7 @@
   "height": 33,
   "hidden": "",
   "id": "btnProducts",
-  "left": 188,
+  "left": 107,
   "name": "",
   "onclick": "",
   "onmousedown": "",
@@ -31,7 +31,7 @@
   "script": "",
   "style": "",
   "theme": "classic",
-  "top": 91,
+  "top": 73,
   "value": "Products",
   "width": 87
 }

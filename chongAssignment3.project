@@ -49,6 +49,14 @@
             "dogStore",
             "dogStore.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "ECnestedLoops",
+            "ECnestedLoops.json"
+          ]
         }
       ],
       "configxml": null,

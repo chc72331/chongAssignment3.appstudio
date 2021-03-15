@@ -1,3 +1,4 @@
+/*
 let cities = []
 let cityBoolean = false
 let userCity = ""
@@ -17,3 +18,4 @@ while (i < cities.length) {
   console.log(cities[i].toLowerCase())
   i++;
 }
+*/

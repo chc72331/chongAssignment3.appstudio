@@ -7,3 +7,15 @@ let products = ["Crocheted Dog Toy: $10.00",
                 "Velvet Hair Bow - Sun Kissed: $12.00", 
                 "Into the Wild Leash $27.00"]
                 
+btnProducts.onclick = function() {
+  let display = lblProductDisplay.value
+  lblProductDisplay.value = products
+}
+
+let wishlist = []
+
+btnAddToWishlist.onclick = function() {
+  let addition = inptWishlistItem.value 
+  wishlist.push(inptWishlistItem.value)
+  lblUserWishlist.value = wishlist
+}
